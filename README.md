@@ -4,7 +4,7 @@ Grazie is a tip calculator application for iOS.
 
 Submitted by: Scott Munroe (University of Texas at Austin)
 
-Time spent: 20 hours spent in total
+Time spent: 22 hours spent in total
 
 ## User Stories
 
